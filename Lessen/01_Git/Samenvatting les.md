@@ -44,9 +44,9 @@ Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, 
 
 **Merging** = samenvoegen
 
-> C2  <- C4  <---------------- C6 
->     <- C3  <-  C5  <---
->
+C2  <- C4  <---------------- C6 
+    <- C3  <-  C5  <---
+
 > Je hebt je tweede versie (C2), daarin maak je twee **branches** (C4 en C3). Deze **branches** verwijzen naar de vorige versie (C2), want daar zijn ze van afkomstig. Vanuit C3 maak je een nieuw commit, dat wordt dan C5 (want C4 bestaat al). Daarna **merge** je C4 en C5, dat wordt C6. 
 
 **fork** = een eigen versie maken van een repo. Dit kan je doen door op de fork-knop te klikken die je rechtsboven in je scherm vindt.
@@ -87,6 +87,9 @@ Dit zijn de codes die je hebt meeste nodig hebt:
 > _Foto's uit je repo_: Sla eerst je foto's op in de map _assets_ op je computer
 > ![Naam]({{ site. baseurl }}/assets/schilderij.jpg) = ![Naam]({{site.baseurl}}/assets/schilderij.jpg) (zonder spaties)
 > (vervang schilderij.jpg door je bestandsnaam)
+
+(>) om een insprong te hebben
+> zoals hier
 
 
 ## Whatsapp
