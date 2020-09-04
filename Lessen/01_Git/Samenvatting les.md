@@ -2,6 +2,7 @@
 
 In de eerste les leerden we wat Git is en hoe we Git kunnen gebruiken. 
 
+
 ## Wat is Git en GitHub?
 
 Git is een manier om te delen wat je maakt, om samen te werken en te communiceren. Je kan er gemakkelijk ook versies van documenten bijhouden. Via Git wordt samenwerken een stuk gemakkelijker.
@@ -9,7 +10,8 @@ Git is een open-source version control system. Het houdt dus bij welke aanpassin
 
 Er zijn verschillende providers van Git, waaronder GitHub (MicroSoft), GitLab, Bitbucket...
 
-_Specifieke woordenschat_:
+
+## Specifieke woordenschat
 
 **Repositories (repo)** = je project, elke repo is een apart project
 
@@ -25,10 +27,12 @@ _Specifieke woordenschat_:
 
 Er hoeft ook niet altijd internet te zijn. Want je kan wijzigingen maken op je computer, via een code-editor, zoals brackets, notepad++... en dan die wijzigen 
 **pushen** naar je **remote server**. Wijzigingen die op de **remote server** maakt, moet je **pullen** om de nieuwste versie op je **working directory** te hebben.
+Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, na de aanpassingen kan de request beantwoord worden en worden de versies samengevoegd. Zo wordt dat gedaan in grote bedrijven.
 **Pull** = je online versie opvragen en naar je computer trekken
 **Push** = je versie op je computer naar je online versie duwen
 **Remote server** = online, vb. GitHub
 **Working directory** = je computer
+**Pull request**= aanpassingen aanbieden
 
 **Branches** = vertakkingen om bijvoorbeeld iets anders uit te proberen
 
@@ -46,4 +50,11 @@ Er hoeft ook niet altijd internet te zijn. Want je kan wijzigingen maken op je c
 >
 > Je hebt je tweede versie (C2), daarin maak je twee **branches** (C4 en C3). Deze **branches** verwijzen naar de vorige versie (C2), want daar zijn ze van afkomstig. Vanuit C3 maak je een nieuw commit, dat wordt dan C5 (want C4 bestaat al). Daarna **merge** je C4 en C5, dat wordt C6. 
 
+**fork**= een eigen versie maken van een repo. Dit kan je doen door op de fork-knop te klikken die je rechtsboven in je scherm vindt.
 
+
+## Lesverloop
+
+Na de intro over Git en GitHub, aanbrengen van de woordenschat en het maken van een fork, zijn we over gegaan naar het uitproberen van enkele nieuwigheden.
+
+We hebben van onze GitHub-pagina's een website gegenereerd. Dit door naar **Settings** te gaan
