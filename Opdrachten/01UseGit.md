@@ -24,13 +24,28 @@ _Specifieke woordenschat_:
 **Cloning** = een exacte kopie van je repo maken
 
 Er hoeft ook niet altijd internet te zijn. Want je kan wijzigingen maken op je computer, via een code-editor, zoals brackets, notepad++... en dan die wijzigen 
-**pushen** naar je origin remote (online). Wijzigingen die je online maakt, moet je **pullen** om de nieuwste versie op je computer te hebben.
+**pushen** naar je **remote server**. Wijzigingen die op de **remote server** maakt, moet je **pullen** om de nieuwste versie op je **working directory** te hebben.
 **Pull** = je online versie opvragen en naar je computer trekken
 **Push** = je versie op je computer naar je online versie duwen
+**Remote server** = online, vb. GitHub
+**Working directory** = je computer
 
 **Branches** = vertakkingen om bijvoorbeeld iets anders uit te proberen
 
 > _Bijvoorbeeld_: Je bent een T-shirt aan het ontwerpen en je wilt uitproberen hoe het er uit zal zien met lange en met korte mouwen. Dan maak je een **branche** van die met korte mouwen, op je origineel werk je verder met lange mouwen. Op het einde kan je dan kiezen welke je de beste vindt.
+
+**Master** = je hoofdvertakking
+
+**Head** = huidige actieve branche, je head wordt telkens verplaatst over de verschillende branches afhankelijk van waar je aan werkt
+
+**Merging** = samenvoegen
+
+> C2  <- C4  <----------- C6 
+>     <- C3  <-  C5  <---
+>
+> Je hebt je tweede versie (C2), daarin maak je twee **branches** (C4 en C3). Deze **branches** verwijzen naar de vorige versie (C2), want daar zijn ze van afkomstig. Vanuit C3 maak je een nieuw commit, dat wordt dan C5 (want C4 bestaat al). Daarna **merge** je C4 en C5, dat wordt C6. 
+
+**Working directory** = 
 
 
 
