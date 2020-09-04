@@ -1,6 +1,7 @@
 # Mezelf even voorstellen
 
 ![schilderij]({{site.baseurl}}/assets/schilderij.jpg)
+![Schilderij]({{site.baseurl}}/assets/schilderij.jpg)
 
 **Wie ben ik?** Ik ben Celine, 25 jaar. Getrouwd met Ward en mama van Florian _(bijna 1 jaar)_. We wonen in Kortrijk.
 Ik ben student aan Howest Brugge, voor de opleiding Online en Offline Graphic design.
