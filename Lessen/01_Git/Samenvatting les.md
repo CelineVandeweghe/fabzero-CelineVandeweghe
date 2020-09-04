@@ -45,7 +45,6 @@ Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, 
 **Merging** = samenvoegen
 
 > C2  <- C4  <---------------- C6 
->
 >     <- C3  <-  C5  <---
 >
 > Je hebt je tweede versie (C2), daarin maak je twee **branches** (C4 en C3). Deze **branches** verwijzen naar de vorige versie (C2), want daar zijn ze van afkomstig. Vanuit C3 maak je een nieuw commit, dat wordt dan C5 (want C4 bestaat al). Daarna **merge** je C4 en C5, dat wordt C6. 
