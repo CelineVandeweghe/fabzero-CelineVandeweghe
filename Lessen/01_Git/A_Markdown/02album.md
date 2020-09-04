@@ -21,3 +21,5 @@ images:
 # Album Images
 
 {% include album.liquid data=page.images %}
+
+![Schilderij Celine]({{ site.baseurl }}/assets/schilderij.jpg)
