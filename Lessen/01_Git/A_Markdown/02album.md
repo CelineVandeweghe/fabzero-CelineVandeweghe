@@ -24,6 +24,8 @@ Voorbeeld van een foto op het internet:
 
 ![Schilderij Celine](https://static.wixstatic.com/media/dc9dd5_bb200f5af8374f9fb9506debd17b6908~mv2.jpg)
 
+Voorbeld van een foto uit mijn repository: 
+
 ![Schilderij Celine]({{site.baseurl}}/assets/schilderij.jpg)
 
 {% include album.liquid data=page.images %}
