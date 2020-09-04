@@ -43,6 +43,21 @@ Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, 
 **Head** = huidige actieve branche, je head wordt telkens verplaatst over de verschillende branches afhankelijk van waar je aan werkt
 
 **Merging** = samenvoegen
+```mermaid
+graph TB
+    c1-->a2
+    subgraph one
+    a1-->a2
+    end
+    subgraph two
+    b1-->b2
+    end
+    subgraph three
+    c1-->c2
+    end
+```
+
+
 
 C2  <- C4  <---------------- C6 
 
