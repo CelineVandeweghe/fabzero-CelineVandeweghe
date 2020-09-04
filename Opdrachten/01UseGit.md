@@ -12,16 +12,25 @@ Er zijn verschillende providers van Git, waaronder GitHub (MicroSoft), GitLab, B
 _Specifieke woordenschat_:
 
 **Repositories (repo)** = je project, elke repo is een apart project
-**Commit** = je versie, dit heeft drie stukken informatie
-
-> 1. Informatie 
-
 
 **Snapshot** = een aanduiding dat deze versie belangrijk is
 
+**Commit** = het maken van een snapshot, dit heeft drie stukken informatie
+
+> 1. Informatie over hoe je bestand is veranderd.
+> 2. Een link naar je vorige commit (parent commit).
+> 3. Een code (kan zoiets worden: fb2d2ec5069fc)
+
+**Cloning** = een exacte kopie van je repo maken
 
 Er hoeft ook niet altijd internet te zijn. Want je kan wijzigingen maken op je computer, via een code-editor, zoals brackets, notepad++... en dan die wijzigen 
-pushen. Wijzigingen die je online maakt, moet je pullen om de nieuwste versie op je computer te hebben.
+**pushen** naar je origin remote (online). Wijzigingen die je online maakt, moet je **pullen** om de nieuwste versie op je computer te hebben.
+**Pull** = je online versie opvragen en naar je computer trekken
+**Push** = je versie op je computer naar je online versie duwen
+
+**Branches** = vertakkingen om bijvoorbeeld iets anders uit te proberen
+
+> _Bijvoorbeeld_: Je bent een T-shirt aan het ontwerpen en je wilt uitproberen hoe het er uit zal zien met lange en met korte mouwen. Dan maak je een **branche** van die met korte mouwen, op je origineel werk je verder met lange mouwen. Op het einde kan je dan kiezen welke je de beste vindt.
 
 
 
