@@ -50,11 +50,47 @@ Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, 
 >
 > Je hebt je tweede versie (C2), daarin maak je twee **branches** (C4 en C3). Deze **branches** verwijzen naar de vorige versie (C2), want daar zijn ze van afkomstig. Vanuit C3 maak je een nieuw commit, dat wordt dan C5 (want C4 bestaat al). Daarna **merge** je C4 en C5, dat wordt C6. 
 
-**fork**= een eigen versie maken van een repo. Dit kan je doen door op de fork-knop te klikken die je rechtsboven in je scherm vindt.
+**fork** = een eigen versie maken van een repo. Dit kan je doen door op de fork-knop te klikken die je rechtsboven in je scherm vindt.
+
+**markdown** = dit zijn je tekstbestanden. Deze kan je opmaken door de juiste codes te gebruiken. Deze bespreek ik later. Het is altijd mogelijk om de code te vergelijken (bewerken) met de bijhorende pagina op de website. Bijvoorbeeld met de pagina markdown elements.
 
 
 ## Lesverloop
 
 Na de intro over Git en GitHub, aanbrengen van de woordenschat en het maken van een fork, zijn we over gegaan naar het uitproberen van enkele nieuwigheden.
 
-We hebben van onze GitHub-pagina's een website gegenereerd. Dit door naar **Settings** te gaan
+We hebben eerst een website gegenereerd. Dit door naar **Settings** te gaan en naar beneden te scrollen tot **GitHub Pages**. Bij **Source** ga je je branche moeten aanduiden. Hier waren er weinig mogelijkheden, enkel **Master** of **None**, waaruit wij **Master** kozen.
+
+Daarna hebben we onze repo op onze working directory geplaatst. Daarvoor was het nodig om de GitHub desktop te installeren. Men had gevraagd om dit op voorhand te doen, wat ik ook gedaan heb. 
+Om dan mijn repo op mijn working directory te kunnen bewerken, ga ik naar het programma GitHub desktop. Aanmelden, repo aanduiden en dan _own purposes_ aanduiden. Als alles goed is gegaan, is de repo terug te vinden in mijn documenten. Dat was het geval. 
+Om mijn repo te editten op mijn computer heb ik brackets.io gedownload, wat werkt op Linux. Voor Windows kan je ook notepad++ gebruiken en voor Mac ook brackets of atom. Online editten kan ook altijd.
+
+Om nieuwe tabbladen te maken (op de website aan de linkerkant), kan ik later nog mapjes maken en er een README.md file in te plaatsen. Dit file bevat: sort:... (welke positie op website) en #  (titel). Je kan er ook een tekst aan toevoegen, bijvoorbeeld _Hier komen alle lessen_. Deze tekst is terug te vinden op het overzicht met alle tabbladen. Je kan een nieuw tabblad toevoegen door op _add file_ te klikken.
+
+De les werd afgesloten met een opdracht, namelijk een pagina over jezelf maken. Mijn pagina vind je [hier](https://celinevandeweghe.github.io/fabzero-CelineVandeweghe/Opdrachten/01UseGit.html). Verder kunnen er nog dingen aan de website toegevoegd worden, een vrije keuze. Deze pagina is een onderdeel van mijn aanvullingen.
+
+
+## Codes tekstopmaak
+
+Dit zijn de codes die je hebt meeste nodig hebt:
+
+> ** tekst ** = **tekst** (zonder spaties)
+
+> _ tekst _ = _tekst_ (zonder spaties)
+
+> ~~ tekst ~~ = ~~tekst~~ (zonder spaties)
+
+> [Naam]( https://www.ateliercelinel.com ) = [Naam](https://www.ateliercelinel.com) (zonder spaties en naam kan je veranderen naar een woord of zin naar keuze)
+
+> _Foto's van het internet_: Sla de afbeeldingslocatie op door met je rechtermuisknop op _Copy Image Location_ te klikken
+> ![Naam]( https://static.wixstatic.com/media/dc9dd5_b2a746ef24f44bf6ae80f464f6e1463c~mv2.jpg ) = ![Naam](https://static.wixstatic.com/media/dc9dd5_b2a746ef24f44bf6ae80f464f6e1463c~mv2.jpg) (zonder spaties)
+
+> _Foto's uit je repo_: Sla eerst je foto's op in de map _assets_ op je computer
+> ![Naam]({{ site. baseurl }}/assets/schilderij.jpg) = ![Naam]({{site.baseurl}}/assets/schilderij.jpg) (zonder spaties)
+> (vervang schilderij.jpg door je bestandsnaam)
+
+
+## Whatsapp
+
+Voor de handigheid heeft de groep van FabZero 2 een whatsapp-groep. Een handige tip deel ik hier: verklein je foto's niet in Git, maar wel voordat je deze op Git plaatst. Dat kan je gemakkelijk online doen. Ik zoek altijd op foto verkleinen en dan helpt internet je wel verder.
+
