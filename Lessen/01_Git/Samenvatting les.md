@@ -44,7 +44,7 @@ Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, 
 
 **Merging** = samenvoegen
 
-> C2  <- C4  <----------- C6 
+> C2  <- C4  <---------------- C6 
 >
 >     <- C3  <-  C5  <---
 >
