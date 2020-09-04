@@ -44,6 +44,7 @@ Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, 
 
 **Merging** = samenvoegen
 
+
 ```mermaid
 graph TD;
     A-->B;
@@ -53,18 +54,17 @@ graph TD;
 ```
 
 
-mermaid
-graph TB
-    c1-->a2
-    subgraph one
-    a1-->a2
-    end
-    subgraph two
-    b1-->b2
-    end
-    subgraph three
-    c1-->c2
-    end
+```mermaid
+classDiagram
+classA <|-- classB
+classC *-- classD
+classE o-- classF
+classG <-- classH
+classI -- classJ
+classK <.. classL
+classM <|.. classN
+classO .. classP
+```
 
 
 
