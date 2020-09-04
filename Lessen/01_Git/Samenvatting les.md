@@ -44,6 +44,15 @@ Je kan ook een **pull request** uitsturen. Dan wordt eerst de inhoud gereviewd, 
 
 **Merging** = samenvoegen
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
 mermaid
 graph TB
     c1-->a2
