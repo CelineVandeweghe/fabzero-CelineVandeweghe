@@ -81,7 +81,7 @@ Ook dit heb ik in Inkscape uitgetekend om uit te snijden met de lasercutter.
 ![Kerstboom 2]({{site.baseurl}}/assets/24.jpg)
 ![Kerstboom 3]({{site.baseurl}}/assets/25.jpg)
 ![Kerstboom 4]({{site.baseurl}}/assets/26.jpg)
-![Kerstboom 5]({{site.baseurl}}/assets/29.jpg)
+![Kerstboom 5]({{site.baseurl}}/assets/29.svg)
 
 
 Ik kijk ernaar uit om mijn kerstboompje en smartphonehouder met de lasercutter uit te snijden. Ik vind deze manier van experimenteren zeer leuk en interessant.
