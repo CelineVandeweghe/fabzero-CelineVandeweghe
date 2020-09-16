@@ -98,21 +98,89 @@ Ik ben nog maar een drietal keer in een fablab geweest, dus hier had ik niet vee
 **embroidery machine**
 **moulding en casting**: series, matrijzen (mallen) met bijvoorbeeld siliconen
 **heat transfer**: ook met bijvoorbeeld vinyl op hout
+**hot line bending**
+**smart materials**: aan materialen toevoegen om zo tot nieuwe functies te komen
+**waterjet**: laseren met waterstraal met zandachtig materiaal er aan toegevoegd (handig voor dikke metalen platen, schuimen en flexibele materialen)
+**plasma**: metalen snel snijden
 
 De tip is breder kijken dan het oorspronkelijk doel.
+
+Voor meer inspiratie was er een miro-board, wat blijkbaar een handige tool is om samen te werken aan presentaties.
 
 
 ## Fablab materialen
 
+Net als over de fablabtoepassingen heb ik over fablab materialen weinig achtergrondkennis. Dit onderdeel van de les was dus vrij nieuw voor mij. Ik vat ook hier even samen wat ik leerde.
+
+
+### 3D printen
+
+Er zijn verschillende soorten en diktes (0,75 mm; 1,75 mm; 3 mm) filamenten. 
+
+**soorten**: 
+- _ABS_: zoals bij lego, stijfheid, levensduur, kleuren, ruwere afwerking
+- _PLA_: duurzamer, risico voor warping (scheeftrekken, heeft te maken met afkoeling)
+- _hergebruik oude materialen_: wordt vaker gedaan
+
+
+### Lasersnijden en graveren
+
+**lasersnijden**:
+- papier en karton
+- hout, MDF, veneer, plywood en kurk
+- leder en stof
+- plexiglas (PMMA, acryl)
+- ABS en PS (pas op voor smelten)
+- PP en PE (pas op voor smelten), voorbeeld PP tupperware
+- POM, duurder maar goede mechanische eigenschappen
+
+**laser graveren**:
+- al het bovenstaande
+- glas
+- gecoat metaal
+- steen, marmer, beton
+
+**niet toegestaan**:
+- metaal (te veel reflectie)
+- weerkaatsende materialen en spiegels
+- plastiek met chlorine (giftige gassen) zoals synthetisch leer (skai), PVC (hard en zacht) en vinyl
+- XPS (styrofoam en isomo)
+- polypropileen schuim
+- polycarbonate (lexan), twijfelgeval (soms wel)
+- fibrereinforced sheets (glass en carbon)
+- PCB
+
+
+Wat ik opvallend vind aan het **niet toegestaan** lijstje is vinyl. Dat heb ik al eerder gelasercut gezien, dus ik ging ervan uit dat dat wel oké is, maar blijkbaar niet. Dat moet ik in het achterhoofd houden.
+
+
+## Interessante ondernemingen
+
+**Materialize** (_Leuven_): pionier in 3D printen, ze maken bijvoorbeeld lampen die enkel mogelijk zijn via 3D printen
+
+![Voorbeeld 1](https://i.materialise.com/shop/item/image/3a9f4587-dc8d-4f4b-81a5-509ca9df88ef/780/585/preview.jpg)
+![Voorbeeld 2](https://i.materialise.com/en/shop/item/causeway-lampshade?category=home-decor&subcategory=lighting&sortBy=interesting&pageNumber=2&pageSize=18&index=10)
+![Voorbeeld 3](https://i.materialise.com/en/shop/item/eternal-knot-mega-cube-lamp?category=home-decor&subcategory=lighting&sortBy=interesting&pageNumber=3&pageSize=18&index=22) 
+![Voorbeeld 4](https://i.materialise.com/en/shop/item/helix-tealight?category=home-decor&subcategory=lighting&sortBy=interesting&pageNumber=3&pageSize=18&index=25) 
+
+**Sublidot** (_Zwitserland_): texturen laseren
+
+![Voorbeeld 1](https://konzeptm.co.nz/wp-content/uploads/2019/03/Sublidot-pattern-Hollow_.jpg)
+![Voorbeeld 2](https://archello.com/thumbs/images/2018/05/22/sub.1526976495.9983.jpg?fit=crop&w=414&h=258&auto=compress) 
+![Voorbeeld 3](https://image.architonic.com/img_pro1-6/135/1411/530-azaela-mdf-schwarz5014-tom-trachsel-sq.jpg)
+![Voorbeeld 4](https://image.architonic.com/sto3-2/20005917/strasser-thun-sublidot-02-arcit18.jpg)
+
+
+## Form follows folding
 
 
 
 
 
+## Interessante tips
 
-
-
-
+- Acrylaat laseren met 1 ledje
+- Miro als tool om samen aan presentaties te werken
 
 
 
