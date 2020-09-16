@@ -47,7 +47,40 @@ Key is de juiste materialen te kiezen, voldoende tussentijdse prototypes te make
 Ik vond al deze inzichten zeer interessant. Het hielp me om op een andere manier naar het designproces te kijken en hoe een product tot stand komt. Ik had hierdoor ook minder koudwatervrees om zelf aan de slag te gaan, want ik heb nu wel voldoende handvaten.
 
 
+## Materiaal
 
+Ik maakte kennis met de verschillende categorieën van materialen.
 
+![Categorieën materialen]({{site.baseurl}}/assets/materialen.png) 
 
+> _ferrous_: metaalhoudend, magnetisch
+> _non-ferrous_: niet magnetisch
+> _polymeren_: lange ketens
+> _elastemeren_: elastisch
+> _thermoplast_: wordt flexibel door warmte
+> _thermohard_: wordt hard door warmte (vb. bakeliet)
+> _ceramics_: stenen, natuurlijke en mensgemaakte (meestal niet in fablab)
+> _smart_: ergens aan toegevoegd
+
+Raw materials (grondstoffen) en processed materials (ook halffabricaten, moeten nog extra verwerkt worden tot een product) is een andere onderverdeling.
+
+Materialen hebben diverse **eigenschappen**:
+> _mechanisch_
+> _chemisch_
+> _thermisch_
+> _fysisch_
+> _akoestisch_
+> _optisch_
+> _sensorieel_
+> _elektrisch_
+> _oppervlakte_
+> _ecologisch_
+> _tijdsgerelateerd_
+> _extractief_: uithalen (vb. steen uit berg, steeds minder steen)
+> _kruip_: bij kunststof, door gewicht gaat het steeds meer doorbuigen (vb. gewicht op lat)
+> _directioneel_: richting vb. hout (ene richting sterk, andere zwak)
+> _esthetisch_: ook sensorieel
+> _magnetisch_
+> _radioactief_: ieder materiaal radioactief, sommige zo instabiel
+> ...
 
