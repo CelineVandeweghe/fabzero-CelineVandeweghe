@@ -43,7 +43,6 @@ Ik onthou zeker dat het belangrijk is om niet direct op ware grootte te werken e
 Key is de juiste materialen te kiezen, voldoende tussentijdse prototypes te maken en het door de volledige doelgroep (ook kuisploeg) te laten testen.
 
 
-
 Ik vond al deze inzichten zeer interessant. Het hielp me om op een andere manier naar het designproces te kijken en hoe een product tot stand komt. Ik had hierdoor ook minder koudwatervrees om zelf aan de slag te gaan, want ik heb nu wel voldoende handvaten.
 
 
@@ -173,8 +172,14 @@ Wat ik opvallend vind aan het **niet toegestaan** lijstje is vinyl. Dat heb ik a
 
 ## Form follows folding
 
+In verband met vouwen heb ik voornamelijk origami-ervaring. Dus toch al een handige basis. 
 
+Er zijn drie manieren om te vouwen:
+- koud machinaal buigen (meestal metaal)
+- hot line bending (thermoplastische materialen)
+- buigen op een verzwakte lijn
 
+Volgens de laatste manier hebben wij gewerkt. De resultaten kan je vinden bij het tabblad opdrachten.
 
 
 ## Interessante tips
