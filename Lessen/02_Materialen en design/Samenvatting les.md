@@ -84,3 +84,20 @@ Materialen hebben diverse **eigenschappen**:
 > _radioactief_: ieder materiaal radioactief, sommige zo instabiel
 > ...
 
+
+## Fablabtoepassingen
+
+Ik ben nog maar een drietal keer in een fablab geweest, dus hier had ik niet veel kennis over (beperkte zich tot lasercutter en 3D printer). Hier heb ik dus ook veel over bijgeleerd.
+
+
+
+
+
+
+
+
+
+
+
+
+Deze les was heel leerrijk voor mij. Het lukte me goed om de les te volgen, ook al had ik weinig achtergrondkennis. Het laatste stuk (in verband met het plooien) ging wel wat snel voor mij, maar dat heb ik achteraf ingehaald.
