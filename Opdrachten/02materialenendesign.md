@@ -39,9 +39,15 @@ Daarna ben ik doosjes gaan vouwen. Hier de resultaten. Ik vond dat eigenlijk hee
 ![Doosjes 2]({{site.baseurl}}/assets/12.jpg)
 
 Hierna ben ik aan de slag gegaan met het probleem dat mijn gsm niet recht kan staan. Ook niet met zo een speciaal hoesje. 
-Ik ben gestart met dik papier, daarna dun lamineerplastiek en daarna mica. Ik heb meerdere variaties gemaakt en daarna steeds geselecteerd tot ik aan mijn eindresultaat kwam. Dit resultaat heb ik ook getekend in Inkscape. Hier had ik al wat ervaring mee en Cristina heeft me nog eens kort op weg geholpen. Ik heb twee variaties gemaakt om deze gemakkelijk dicht te plooien. En deze variaties heb ik nog uitgewerkt voor materialen met diktes 1 mm, 2 mm, 3 mm en 4 mm, maar ik kan 
+Ik ben gestart met dik papier, daarna dun lamineerplastiek en daarna mica. Ik heb meerdere variaties gemaakt en daarna steeds geselecteerd tot ik aan mijn eindresultaat kwam. Dit resultaat heb ik ook getekend in Inkscape. Hier had ik al wat ervaring mee en Cristina heeft me nog eens kort op weg geholpen. Ik heb twee variaties gemaakt om deze gemakkelijk dicht te plooien. En deze variaties heb ik nog uitgewerkt voor materialen met diktes 1 mm, 2 mm, 3 mm en 4 mm, maar ik kan deze ontwerpen nog gemakkelijk aanpassen.
 
-
-
-![Schilderij Celine]({{site.baseurl}}/assets/6.jpg)
-![Schilderij Celine]({{site.baseurl}}/assets/6.jpg)
+![Smartphonehouder 1]({{site.baseurl}}/assets/13.jpg)
+![Smartphonehouder 2]({{site.baseurl}}/assets/14.jpg)
+![Smartphonehouder 3]({{site.baseurl}}/assets/15.jpg)
+![Smartphonehouder 4]({{site.baseurl}}/assets/16.jpg)
+![Smartphonehouder 5]({{site.baseurl}}/assets/17.jpg)
+![Smartphonehouder 6]({{site.baseurl}}/assets/18.jpg)
+![Smartphonehouder 7]({{site.baseurl}}/assets/19.jpg)
+![Smartphonehouder 8]({{site.baseurl}}/assets/20.jpg)
+![Smartphonehouder 9]({{site.baseurl}}/assets/21.jpg)
+![Smartphonehouder 10]({{site.baseurl}}/assets/22.jpg)
