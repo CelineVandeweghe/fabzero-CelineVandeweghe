@@ -26,11 +26,22 @@ De moeilijkste opdracht vond ik toch de stoel. Tijdens de les lukte het me niet 
 
 ## Experimenten
 
+Ik heb verschillende zaken uitgeprobeerd.
+
+Ik ben begonnen met een hoedje te maken.
+
+![Hoedje 1]({{site.baseurl}}/assets/9.jpg)
+![Hoedje 2]({{site.baseurl}}/assets/10.jpg)
+
+Daarna ben ik doosjes gaan vouwen. Hier de resultaten. Ik vond dat eigenlijk heel leuk om te doen. De doopsuikers van mijn zoon heb ik in gekochte doosjes gedaan, misschien maak ik die ook eens zelf voor een volgend kindje of voor iemand die ik ken.
+
+![Doosjes 1]({{site.baseurl}}/assets/11.jpg)
+![Doosjes 2]({{site.baseurl}}/assets/12.jpg)
+
+Hierna ben ik aan de slag gegaan met het probleem dat mijn gsm niet recht kan staan. Ook niet met zo een speciaal hoesje. 
+Ik ben gestart met dik papier, daarna dun lamineerplastiek en daarna mica. Ik heb meerdere variaties gemaakt en daarna steeds geselecteerd tot ik aan mijn eindresultaat kwam. Dit resultaat heb ik ook getekend in Inkscape. Hier had ik al wat ervaring mee en Cristina heeft me nog eens kort op weg geholpen. Ik heb twee variaties gemaakt om deze gemakkelijk dicht te plooien. En deze variaties heb ik nog uitgewerkt voor materialen met diktes 1 mm, 2 mm, 3 mm en 4 mm, maar ik kan 
 
 
 
-![Schilderij Celine]({{site.baseurl}}/assets/6.jpg)
-![Schilderij Celine]({{site.baseurl}}/assets/6.jpg)
-![Schilderij Celine]({{site.baseurl}}/assets/6.jpg)
 ![Schilderij Celine]({{site.baseurl}}/assets/6.jpg)
 ![Schilderij Celine]({{site.baseurl}}/assets/6.jpg)
