@@ -42,12 +42,30 @@ Hierna ben ik aan de slag gegaan met het probleem dat mijn gsm niet recht kan st
 Ik ben gestart met dik papier, daarna dun lamineerplastiek en daarna mica. Ik heb meerdere variaties gemaakt en daarna steeds geselecteerd tot ik aan mijn eindresultaat kwam. Dit resultaat heb ik ook getekend in Inkscape. Hier had ik al wat ervaring mee en Cristina heeft me nog eens kort op weg geholpen. Ik heb twee variaties gemaakt om deze gemakkelijk dicht te plooien. En deze variaties heb ik nog uitgewerkt voor materialen met diktes 1 mm, 2 mm, 3 mm en 4 mm, maar ik kan deze ontwerpen nog gemakkelijk aanpassen.
 
 ![Smartphonehouder 1]({{site.baseurl}}/assets/13.jpg)
+Mijn eerste prototypes. Verschillende mogelijkheden uittesten.
+
+
 ![Smartphonehouder 2]({{site.baseurl}}/assets/14.jpg)
+Mijn voorlopige favoriet.
+
+
 ![Smartphonehouder 3]({{site.baseurl}}/assets/15.jpg)
+Uittekenen van uitvouwing met twee verschillende bevestigingssystemen (flapjes en volledige overlappingen).
+
+
 ![Smartphonehouder 4]({{site.baseurl}}/assets/16.jpg)
+Mijn favoriet uitgewerkt in lamineerplastiek (gelamineerd zonder blad er tussen).
+
+
 ![Smartphonehouder 5]({{site.baseurl}}/assets/17.jpg)
 ![Smartphonehouder 6]({{site.baseurl}}/assets/18.jpg)
+Uitgewerkte variaties in lamineerplastiek.
+
+
 ![Smartphonehouder 7]({{site.baseurl}}/assets/19.jpg)
+Favoriet uitgewerkt in mica. 
+
 ![Smartphonehouder 8]({{site.baseurl}}/assets/20.jpg)
 ![Smartphonehouder 9]({{site.baseurl}}/assets/21.jpg)
 ![Smartphonehouder 10]({{site.baseurl}}/assets/22.jpg)
+Ontvouwingen van de in plastiek uitgewerkte prototypes. Ik heb deze ontvouwingen gekopieerd en onder mijn plastiek geplaatst. Zo sneed ik mijn origineel niet kapot en had ik ook geen lijnen op mijn plastiek.
