@@ -89,6 +89,22 @@ Materialen hebben diverse **eigenschappen**:
 
 Ik ben nog maar een drietal keer in een fablab geweest, dus hier had ik niet veel kennis over (beperkte zich tot lasercutter en 3D printer). Hier heb ik dus ook veel over bijgeleerd.
 
+**3D printen**: laagje per laagje toevoegen (additief)
+**laser cutting en graveren**: elimineren, oppervlakte verkleinen
+**CNC cutting**: snijplotter, via coördinaten, vectorieel, vb. stickers, belettering auto's
+**CNC milling**: frezen uit massieve blok, laagje per laagje
+**vacuum vormen**: figuur tussen platen thermoplast, series maken
+**hot wire cutting**: CNC of manueel, thermoplast
+**embroidery machine**
+**moulding en casting**: series, matrijzen (mallen) met bijvoorbeeld siliconen
+**heat transfer**: ook met bijvoorbeeld vinyl op hout
+
+De tip is breder kijken dan het oorspronkelijk doel.
+
+
+## Fablab materialen
+
+
 
 
 
