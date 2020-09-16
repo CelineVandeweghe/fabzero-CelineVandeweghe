@@ -81,10 +81,14 @@ Dit zijn de codes die je hebt meeste nodig hebt:
 > [Naam]( https://www. ateliercelinel.com ) = [Naam](https://www.ateliercelinel.com) (zonder spaties en naam kan je veranderen naar een woord of zin naar keuze)
 
 > _Foto's van het internet_: Sla de afbeeldingslocatie op door met je rechtermuisknop op _Copy Image Location_ te klikken
-> ![Naam]( https: //static.wixstatic.com/media/dc9dd5_b2a746ef24f44bf6ae80f464f6e1463c~mv2.jpg ) = ![Naam](https://static.wixstatic.com/media/dc9dd5_b2a746ef24f44bf6ae80f464f6e1463c~mv2.jpg) (zonder spaties)
+> ![Naam]( https: //static.wixstatic.com/media/dc9dd5_b2a746ef24f44bf6ae80f464f6e1463c~mv2.jpg ) = 
+> ![Naam](https://static.wixstatic.com/media/dc9dd5_b2a746ef24f44bf6ae80f464f6e1463c~mv2.jpg) 
+> (zonder spaties)
 
 > _Foto's uit je repo_: Sla eerst je foto's op in de map _assets_ op je computer
-> ![Naam]({{ site. baseurl }}/assets/schilderij.jpg) = ![Naam]({{site.baseurl}}/assets/schilderij.jpg) (zonder spaties)
+> ![Naam]({{ site. baseurl }}/assets/schilderij.jpg) = 
+> ![Naam]({{site.baseurl}}/assets/schilderij.jpg) 
+> (zonder spaties)
 > (vervang schilderij.jpg door je bestandsnaam)
 
 (>) om een insprong te hebben
