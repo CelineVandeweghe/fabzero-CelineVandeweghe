@@ -70,6 +70,10 @@ Favoriet uitgewerkt in mica.
 ![Smartphonehouder 10]({{site.baseurl}}/assets/22.jpg)
 Ontvouwingen van de in plastiek uitgewerkte prototypes. Ik heb deze ontvouwingen gekopieerd en onder mijn plastiek geplaatst. Zo sneed ik mijn origineel niet kapot en had ik ook geen lijnen op mijn plastiek.
 
+![Smartphonehouder 11]({{site.baseurl}}/assets/28.svg)
+Uitwerken in Inkscape.
+
+
 Als extra experiment wou ik een **kerstboompje** maken. Ik heb me gebaseerd op een origamivoorbeeld waarvan ik het resultaat terug heb opengeplooid. Dan heb ik het nagetekend op dik papier en ook eens uitgewerkt in plastiek. 
 Ook dit heb ik in Inkscape uitgetekend om uit te snijden met de lasercutter.
 
@@ -77,6 +81,7 @@ Ook dit heb ik in Inkscape uitgetekend om uit te snijden met de lasercutter.
 ![Kerstboom 2]({{site.baseurl}}/assets/24.jpg)
 ![Kerstboom 3]({{site.baseurl}}/assets/25.jpg)
 ![Kerstboom 4]({{site.baseurl}}/assets/26.jpg)
+![Kerstboom 5]({{site.baseurl}}/assets/29.jpg)
 
 
 Ik kijk ernaar uit om mijn kerstboompje en smartphonehouder met de lasercutter uit te snijden. Ik vind deze manier van experimenteren zeer leuk en interessant.
