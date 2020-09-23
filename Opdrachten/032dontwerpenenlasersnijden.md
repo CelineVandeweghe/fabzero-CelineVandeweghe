@@ -23,7 +23,6 @@ Natuurlijk moest ik ook nog snijlijnen toevoegen. Sowieso op de buitenrand, maar
 Ik heb eerst de snijlijn toegevoegd. Dit heb ik gedaan met de knooppunten-tekentool. Daarna heb ik de knooppunt geselecteerd en de vorm aangepast (glad maken).
 
 De lijnen verwijderen heb ik gedaan met de paden aanpassen-tool. Ik klikte hierop, selecteerde de knooppunten die ik weg wilde en ik verwijderde ze met de backspace.
-Snijlijn toevoegen
 
 Daarna heb ik de lijndikte en kleuren aangepast, zodat het gelaserd zou kunnen worden. Eerst de kleuren. De snijlijnen heb ik rood (R 255, G 0, B 0) gemaakt (lijnen selecteren rechtmuisknop, vulling en lijn). De graveerlijnen blauw (R 0, G 0, B 0) en de rasterlijnen (volledige vlakken laseren) zwart (R 0, G 0, B 0).
 De lijndikte voor het MaM is 0,025 mm. Dit heb ik als laatste aangepast, want anders was het moeilijk om de lijnen nog te bewerken. Ik selecteerde alles en bij vulling en lijn paste ik de dikte aan.
@@ -40,9 +39,10 @@ Ik ben met mijn svg-bestand naar het MaM gegaan. Daar heb ik het geconventeerd n
 ![Foto 8]({{site.baseurl}}/assets/j.jpg)
 ![Foto 9]({{site.baseurl}}/assets/k.jpg)
 
-
+**Mijn resultaat**:
 ![Foto 10]({{site.baseurl}}/assets/ap.jpg)
 
+Mijn bestand kan je vinden bij het doosje. Ik heb deze in hetzelfde bestand gemaakt.
 
 In het MaM was er ook allerhande inspiratiemateriaal voorzien. Daar heb ik ook foto's van.
 
@@ -90,7 +90,7 @@ Opruimen was niet nodig. Dat ging Lien doen en ze ging ook ontsmetten voor de vo
 ![Foto 1]({{site.baseurl}}/assets/ad.jpg)
 Hier ben ik heel tevreden over. Het aapje dat er nu op ligt, vindt Florian ook heel leuk.
 
-
+**Bestand**:
 ![Foto 1]({{site.baseurl}}/assets/F.svg)
 
 
@@ -98,6 +98,8 @@ Hier ben ik heel tevreden over. Het aapje dat er nu op ligt, vindt Florian ook h
 
 Voor deze opdracht heb ik een spaarpotje met een giraf ontworpen.
 
+Ik ben vertrokken vanuit de boxmaker van Ingegno. Daar heb ik in de settings gekozen voor materiaal van 3 mm dik en zijden van 10 cm.
+Dit heb ik geëxporteerd en dan geopend in Inkscape.
 
 
 ![Foto 1]({{site.baseurl}}/assets/l.mp4)
