@@ -2,6 +2,7 @@
 
 3D tekenen en printen is echt helemaal nieuw voor mij. Deze les was dus een uitdaging.
 
+
 ## Inleiding
 
 3D printen is een additieve druktechniek. Er worden telkens laagjes bijgemaakt. Het is te vergelijken met de piramides in Egypte. Daar leggen ze ook steeds een nieuwe laag stenen.
@@ -50,4 +51,22 @@ Het is belangrijk om rekening te houden met enkele ontwerpregels:
 >_Raft: een extra boordje aan je object_
 >- Je laaghoogte heeft effect op de printduur
 
+Tijdens de les hebben we ook een oefening gemaakt, namelijk 3D printen met karton en een breekmes. We moesten een figuur maken door laagjes te snijden en op elkaar te kleven.
+
 **Resultaat oefening:**
+![Boom]({{site.baseurl}}/assets/3D/Boom.jpg)
+
+
+Ook heb ik in de les een oefening in Tinkercad gemaakt. 
+**Resultaat van de oefening:**
+![Gezicht]({{site.baseurl}}/assets/3D/Kubus.stl)
+
+
+## Cura
+
+Aan het einde van de les heeft de lesgever nog even getoond hoe Cura werkt. Maar dat heb ik niet echt kunnen volgen omdat het wat te laat was op de avond. Gelukkig heeft Lien me het nog eens uitgelegd in het MaM.
+
+
+Het was een intensieve maar zeer interessante les. Ik ben dan ook heel snel aan de slag gegaan met de opdracht.
+
+
