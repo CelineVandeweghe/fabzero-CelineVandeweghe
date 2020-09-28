@@ -53,6 +53,9 @@ Het is belangrijk om rekening te houden met enkele ontwerpregels:
 
 Tijdens de les hebben we ook een oefening gemaakt, namelijk 3D printen met karton en een breekmes. We moesten een figuur maken door laagjes te snijden en op elkaar te kleven.
 
+**Schets:**
+![Schets boom]({{site.baseurl}}/assets/3D/Schets boom.jpg)
+
 **Resultaat oefening:**
 ![Boom]({{site.baseurl}}/assets/3D/Boom.jpg)
 

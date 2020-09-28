@@ -182,3 +182,4 @@ Ik heb twee stempel-ontwerpen gemaakt. Het handje heb ik laten laseren in rubber
 Hier moet het resultaat wel nog geïnventeerd worden. Want het zwarte wordt weggelaserd. Als je het zo zou doorsturen, is het handje wit.
 
 ![Foto 2]({{site.baseurl}}/assets/Stempel handje.jpg)
+![Foto 3]({{site.baseurl}}/assets/Proces handje.jpg)
