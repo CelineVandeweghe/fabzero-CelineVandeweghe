@@ -1,3 +1,7 @@
+---
+sort: 3
+---
+
 # Les 03: 2D tekenen en lasersnijden
 
 Tijdens deze les werkten we voornamelijk met Inkscape. Er werd kennis gemaakt met 2D vectorieel tekenen. In het begin maakten we kennis met nog een aantal interessante alternatieven.
