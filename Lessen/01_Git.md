@@ -1,4 +1,4 @@
-# Git gebruiken
+# Les 01: Git
 
 In de eerste les leerden we wat Git is en hoe we Git kunnen gebruiken. 
 
