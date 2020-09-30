@@ -45,4 +45,6 @@ Bij het resultaat hangt de ondersteuning er nog aan vast.
 
 ![3D printen 5]({{site.baseurl}}/assets/3D/5.jpg)
 
-De ondersteuning moet ik er nog afhalen. Wanneer ik dat gedaan heb, post ik hier een foto.
+De ondersteuning moest ik er nog afhalen. Dus hier het eindresultaat:
+
+![Resultaat]({{site.baseurl}}/assets/3D/Print.jpg)
