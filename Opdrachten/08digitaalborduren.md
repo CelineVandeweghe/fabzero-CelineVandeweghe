@@ -64,7 +64,9 @@ De machine start met borduren. Eerst traag want hij legt een knoopje, daarna de 
 Na elke laag stopt de machine en kan je de nieuwe garen inrijgen. 
 
 ![Borduren]({{site.baseurl}}/assets/borduren/borduren 1.jpg)
-![Borduren 2]({{site.baseurl}}/assets/borduren/borduren2.jpg)
+![Borduren 2]({{site.baseurl}}/assets/borduren/b.jpg)
+![Borduren 3]({{site.baseurl}}/assets/borduren/a.jpg)
+![Borduren 4]({{site.baseurl}}/assets/borduren/borduren2.jpg)
 ![Klaar]({{site.baseurl}}/assets/borduren/klaar.jpg)
 
 
