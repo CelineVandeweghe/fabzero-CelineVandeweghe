@@ -237,20 +237,6 @@ Ik vond dit een heel moeilijke les. Sommige zaken waren nogal abstract en heb ik
 Ik heb sowieso iets van schakeling nodig, omdat ik een lamp wil maken. Maar ik ga het basic houden.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Volgende les
 
 Volgende les is het normaal KiCad, maar ik heb gekozen voor optie B, dus volgende week geen les.
