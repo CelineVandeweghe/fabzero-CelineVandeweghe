@@ -67,16 +67,12 @@ Lien heeft me nog een inspiratiebron gestuurd:
 Dit was voorgeprogrammeerd in de borduurmachine. Kon handig zijn als inspiratiebron.
 Tijdens het borduren in het MaM heeft ze nog wat meegedacht over mijn eindproject. We zijn er op gekomen dat de twee lagen en lilypad in de patch het beste zijn, want mijn plan omvat een patch die je kan verplaatsen. Velcro of naaien zorgt voor mijn verplaatsingsvrijheid.
 
-Inspiratie voor de patch heb ik op deze website gehaald: 
-
-_link_
+Inspiratie voor de patch heb ik op [deze website](https://blog.bernina.com/nl/2018/03/zelf-patches-maken-naaimachine/) gehaald.
 
 
 **Schakelingen**
 
-Ik heb me wat ingelezen over schakelingen tijdens de les elektronica en op deze website:
-
-_link_
+Ik heb me wat ingelezen over schakelingen tijdens de les elektronica en op [deze website](https://www.nproject.org/nl/elektronica/voorschakelweerstanden-voor-leds-gebruiken).
 
 Ik heb ook een voorbeeldschakeling in Tinkercad gemaakt.
 
@@ -118,3 +114,43 @@ Op dinsdag 3 november 2020 om 9u mag ik borduren in het MaM. Tenminste als er ge
 
 
 ## Materiaallijst en kostprijs
+
+- Borduurgaren en ondergaren (kan ik in het MaM gebruiken; anders 3,35 euro per kleur en 4,40 voor ondergaren)
+- Katoen in een bleke kleur, halve meter (ook in MaM; anders 4,50 euro)
+- Vlies (ook in MaM; anders 5,30 euro)
+- [Brochespeld](https://www.debanier.be/brochespeld-basis-38-mm-10-stuks-zilverkleurig.html) (2,60 euro)
+- Naalden (heb ik)
+- [Ledjes](https://www.led-voordeel.nl/a-43079980/3mm-leds/ledjes-3mm-warm-wit-10stuks/#description) (minstens 6, best meer; 1,20 euro voor 10)
+- [Conductieve naaigaren](https://www.kiwi-electronics.nl/stainless-thin-conductive-thread-2-ply-23-meter) (6,95 euro)
+- [Batterij](https://www.bol.com/nl/p/varta-cr2430-wegwerpbatterij-lithium/9000000012457503/?s2a=#productTitle) (3,62 euro)
+- [Batterijhouder met schakelaar](https://opencircuit.nl/Product/LilyPad-Coin-Cell-Batterij-Houder-schakelaar) (2,65 euro)
+
+(+ mogelijke verzendkosten, behalve bij bol.com)
+
+
+Totaalprijs (geen rekening gehouden met materialen aanwezig in MaM): 
+
+>6 x 3,35 euro
+>4,40 euro
+>4,50 euro
+>5,30 euro
+>2,60 euro
+>6,95 euro
+>2 x 1,20 euro
+>3,62 euro
+>2,65 euro
+>= 52,52 euro
+
+(+ verzendkosten)
+
+Totaalprijs (wel rekening gehouden met materialen aanwezig in MaM):
+>2,60
+>2 x 1,20
+>6,95 euro
+>3,62 euro
+>2,65 euro
+>= 18,22 euro
+
+(+ verzendkosten)
+
+(- wat er aanwezig is in Drongen, ik weet niet goed wat er allemaal is, dus daar kan ik in mijn berekening nog geen rekening mee houden)
