@@ -1,4 +1,4 @@
-# Les 08: Digitaal borduren
+# Les 07: Digitaal borduren
 
 ## Inleiding
 
