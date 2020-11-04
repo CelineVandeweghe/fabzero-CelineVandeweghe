@@ -79,7 +79,14 @@ Dan is het nog kwestie van alles los te maken, de borduurmachine uit te schakele
 Ik vond dit echt supertof en ga ook mijn eindproject digitaal borduren.
 
 
+## Vrij werk
 
+Ik ben op 3 november gaan borduren voor mijn eindproject en heb dan nog wat patches voor mezelf gemaakt.
+
+Ik heb ook ontdekt dat om de kleuren normaal in de software te krijgen, je je bestand als RGB moet opslaan (niet CMYK).
+
+![patches1]({{site.baseurl}}/assets/borduren/dieren.jpg)
+![patches2]({{site.baseurl}}/assets/borduren/dieren.bmp)
 
 
 

@@ -29,7 +29,7 @@ Hierna ga ik ook een brochespeld vastnaaien.
 3. Ontwerp 1 keer borduren (03/11/2020)
 4. Ter plaatse aanpassingen (03/11/2020)
 5. Ontwerp tweede keer borduren, indien nodig weer aanpassingen (03/11/2020)
-6. Naar huis gaan met minstens 3 geborduurde pauwen (meerdere indien het langer duurt om het goed te hebben, 2 goede en 1 om mee te experimenteren) (03/11/2020)
+6. Naar huis gaan met minstens 2 geborduurde pauwen (meerdere indien het langer duurt om het goed te hebben, 1 goede en 1 om mee te experimenteren) (03/11/2020)
 7. Experimenteren met naaien met conductieve draad op 1 pauw (minste resultaat) (voor 10/11/2020)
 8. Volledige schakeling naaien op een goede pauw en uittesten (voor 14/11/2020)
 9. Gelukt? Super, indien niet opnieuw op tweede pauw (indien nodig nog extra gaan borduren) (voor 20/11/2020)
@@ -44,7 +44,7 @@ Hierna ga ik ook een brochespeld vastnaaien.
 
 #### Vrijdag 30 oktober 2020
 
-**Check**: (0,) 1 & 2
+**Check**: (0,) 1, 2, 3, 4, 5 & 6
 
 
 ### 0. Oefening digitaal borduren en onderzoek naar schakeling
@@ -103,14 +103,59 @@ Dit heb ik geëxporteerd naar jpg. Bij het exporteren heb ik gezorgd voor een kw
 ![Pauw jpg]({{site.baseurl}}/assets/eindproject/Pauw.jpg)
 ![Pauw jpg 2]({{site.baseurl}}/assets/eindproject/Pauw2.jpg)
 
-Ik heb ook nog een back-up ontwerp gemaakt, moest er een probleem zijn, of moest ik een aanvulling willen maken met een ander dier:
-
-![Pinguin jpg]({{site.baseurl}}/assets/eindproject/Pinguin.jpg)
-
 
 ### 2. Afspraak maken in het MaM
 
 Op dinsdag 3 november 2020 om 9u mag ik borduren in het MaM. Tenminste als er geen totale lockdown komt. Aangezien het vakantieperiode is, hoef ik geen rekening te houden met de uren. Ik ben student aan Howest Brugge, dus zolang de hogeschool open blijft, kan ik er gaan borduren.
+
+
+### 3. Ontwerp 1 keer borduren
+
+Mijn ontwerpen:
+
+![Ontwerp]({{site.baseurl}}/assets/eindproject/pauw.jpg)
+![Ontwerp]({{site.baseurl}}/assets/eindproject/pauw.bmp)
+
+Volg mijn borduurproces mee:
+
+![Stappen]({{site.baseurl}}/assets/eindproject/1.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/2.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/3.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/4.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/5.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/6.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/7.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/8.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/9.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/10.jpg)
+![Stappen]({{site.baseurl}}/assets/eindproject/11.jpg)
+
+Het bleek wel dat de RGB-variant voor de juiste kleuren zorgt. Dus de volgende keer sla ik mijn bestand enkel op in RGB.
+
+Ik heb deze garen en vlies gebruikt:
+
+![Garen]({{site.baseurl}}/assets/eindproject/garen1.jpg)
+![Garen]({{site.baseurl}}/assets/eindproject/garen2.jpg)
+![Vlies]({{site.baseurl}}/assets/eindproject/vlies.jpg)
+![Vlies]({{site.baseurl}}/assets/eindproject/vlies2.jpg)
+
+
+### 4. Ter plaatse aanpassingen
+
+Ik heb de zwarte lijnen weggelaten, want de machine blokkeerde daarop steeds en dan brak de naald af. In mijn eerste patch heb ik de rest van het zwart met de hand verder geborduurd.
+
+![Ontwerp]({{site.baseurl}}/assets/eindproject/pauw2.jpg)
+![Ontwerp]({{site.baseurl}}/assets/eindproject/pauw2.bmp)
+
+
+### 5. Ontwerp tweede keer borduren
+
+Hierna heb ik de pauw nog een keer geborduurd. Dit ging veel vlotter dan de eerste keer, want er is geen enkele naald gebroken omdat ik de zwarte lijnen heb weggelaten.
+
+
+### 6. Naar huis gaan met minstens 2 geborduurde pauwen
+
+![Resultaat]({{site.baseurl}}/assets/eindproject/12.jpg)
 
 
 ## Materiaallijst en kostprijs
