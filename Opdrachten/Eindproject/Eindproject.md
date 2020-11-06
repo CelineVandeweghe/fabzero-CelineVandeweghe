@@ -44,7 +44,7 @@ Hierna ga ik ook een brochespeld vastnaaien.
 
 #### Vrijdag 30 oktober 2020
 
-**Check**: (0,) 1, 2, 3, 4, 5, 6, 7, 8 & 9
+**Check**: (0,) 1, 2, 3, 4, 5, 6, 7, 8, 9 & 10
 
 
 ### 0. Oefening digitaal borduren en onderzoek naar schakeling
@@ -185,6 +185,19 @@ Volg mee met het proces:
 ### 9. Gelukt? Super, indien niet opnieuw gaan borduren
 
 Het is gelukt, dus niet nodig om opnieuw te gaan borduren.
+
+
+### 10. Brochespeld naaien
+
+De brochespeld is vastgenaaid. Op mijn proefexemplaar heb ik er één vastgenaaid. Op mijn tweede exemplaar twee. Twee bleek toch het beste.
+
+Het was nodig op de brochespeld niet op de conductieve garen te naaien, anders ontstond er kortsluiting (uitgetest). 
+
+Dit is het resultaat: 
+
+![Proces]({{site.baseurl}}/assets/eindproject/23.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/24.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/25.jpg)
 
 
 ## Materiaallijst en kostprijs
