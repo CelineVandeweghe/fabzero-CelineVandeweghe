@@ -32,7 +32,7 @@ Hierna ga ik ook een brochespeld vastnaaien.
 6. Naar huis gaan met minstens 2 geborduurde pauwen (meerdere indien het langer duurt om het goed te hebben, 1 goede en 1 om mee te experimenteren) (03/11/2020)
 7. Experimenteren met naaien met conductieve draad op 1 pauw (minste resultaat) (voor 10/11/2020)
 8. Volledige schakeling naaien op een goede pauw en uittesten (voor 14/11/2020)
-9. Gelukt? Super, indien niet opnieuw op tweede pauw (indien nodig nog extra gaan borduren) (voor 20/11/2020)
+9. Gelukt? Super, indien niet opnieuw gaan borduren (voor 20/11/2020)
 10. Brochespeld naaien (voor 22/11/2020)
 11. Presentatie maken (voor 26/11/2020)
 12. Presentatie geven (28/11/2020)
@@ -44,7 +44,7 @@ Hierna ga ik ook een brochespeld vastnaaien.
 
 #### Vrijdag 30 oktober 2020
 
-**Check**: (0,) 1, 2, 3, 4, 5 & 6
+**Check**: (0,) 1, 2, 3, 4, 5, 6, 7, 8 & 9
 
 
 ### 0. Oefening digitaal borduren en onderzoek naar schakeling
@@ -156,6 +156,35 @@ Hierna heb ik de pauw nog een keer geborduurd. Dit ging veel vlotter dan de eers
 ### 6. Naar huis gaan met minstens 2 geborduurde pauwen
 
 ![Resultaat]({{site.baseurl}}/assets/eindproject/12.jpg)
+
+
+### 7.Experimenteren met naaien met conductieve draad op 1 pauw (minste resultaat) 
+
+Volg mee met het proces:
+
+![Proces]({{site.baseurl}}/assets/eindproject/13.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/14.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/15.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/16.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/17.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/18.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/19.jpg)
+
+
+### 8. Volledige schakeling naaien op een goede pauw en uittesten 
+
+Bij de eerste knipperden de lichtjes nogal veel. Dus ik ga bij deze een lichtje minder vastmaken, 8 in plaats van 9 en ik ga de conductieve draad beter vastmaken.
+
+Volg mee met het proces:
+
+![Proces]({{site.baseurl}}/assets/eindproject/20.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/21.jpg)
+![Proces]({{site.baseurl}}/assets/eindproject/22.jpg)
+
+
+### 9. Gelukt? Super, indien niet opnieuw gaan borduren
+
+Het is gelukt, dus niet nodig om opnieuw te gaan borduren.
 
 
 ## Materiaallijst en kostprijs
