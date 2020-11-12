@@ -44,7 +44,7 @@ Hierna ga ik ook een brochespeld vastnaaien.
 
 #### Vrijdag 30 oktober 2020
 
-**Check**: (0,) 1, 2, 3, 4, 5, 6, 7, 8, 9 & 10
+**Check**: (0,) 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 en 11
 
 
 ### 0. Oefening digitaal borduren en onderzoek naar schakeling
@@ -198,6 +198,32 @@ Dit is het resultaat:
 ![Proces]({{site.baseurl}}/assets/eindproject/23.jpg)
 ![Proces]({{site.baseurl}}/assets/eindproject/24.jpg)
 ![Proces]({{site.baseurl}}/assets/eindproject/25.jpg)
+
+
+### 11. Presentatie maken
+
+Ik heb een fotoshoot gedaan. Hier zijn de foto's:
+
+![Resultaat]({{site.baseurl}}/assets/eindproject/e1.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e2.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e3.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e4.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e5.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e6.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e7.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e8.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e9.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e10.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e11.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e12.jpg)
+![Resultaat]({{site.baseurl}}/assets/eindproject/e13.jpg)
+
+Ik heb een presentatie in Canva gemaakt en ook een [miroboard](https://miro.com/app/board/o9J_lfNmtSo=/) . Zo kon ik wat verschillende zaken uitproberen.
+
+**Presentatie Canva:**
+![Presentatie Canva]({{site.baseurl}}/assets/eindproject/Presentatie.pdf)
+
+Mijn voorkeur gaat uit naar de Canva presentatie, vanwege de vormgeving.
 
 
 ## Materiaallijst en kostprijs
